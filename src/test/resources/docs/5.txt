@@ -1,0 +1,1 @@
+North 099 Permanent Search engine developer required with experience in the following technologies: Java, Lucene, Solr, Spring, JSP, MySQL, Tomcat, JavaScript, Ant / Ivy, Subversion
