@@ -1,0 +1,1 @@
+South 100 Contract  Java developer required to work within a small development group. Minimum 3+ years experience developing web applications in Java with exposure to Open Source technologies such as Spring, Hibernate, Eclipse, Struts, Lucene, Tomcat

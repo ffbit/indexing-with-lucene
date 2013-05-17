@@ -1,0 +1,1 @@
+West  085 Contract  Oracle DBA required to provide 3rd line support, maintenance and database restore for company's production systems. Experienced in SQL, PL/SQL Oracle databases (9i & 10GR2), Oracle RAC, RMAN and Data Guard. Ideally with, Linux and Windows experience
