@@ -14,7 +14,7 @@
 
         <guava.version>14.0.1</guava.version>
         <junit.version>4.11</junit.version>
-        <lucene.version>4.3.0</lucene.version>
+        <lucene.version>4.8.1</lucene.version>
     </properties>
 
     <dependencies>
